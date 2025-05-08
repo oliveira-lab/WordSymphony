@@ -35,8 +35,8 @@ The script relies on the following R packages, which will be installed automatic
 ## Output
 Two PDF files respectively named wordcloud.pdf and wordcloud_radial.pdf.
 
-![Output wordsymphony](/test/wordcloud.pdf. "Word cloud for the dummy_text.txt")
-![Output wordsymphony](/test/wordcloud_radial.pdf. "Radial word frequency graph")   
+![Output wordsymphony](/test/wordcloud.jpg. "Word cloud for the dummy_text.txt")
+![Output wordsymphony](/test/wordcloud_radial.jpg. "Radial word frequency graph")   
 
 ## License and citing
 This project is licensed under a GPL-3.0 License. See the LICENSE file for details. Please cite MuSiMa by including the link to https://github.com/oliveira-lab/wordsymphony.git.
