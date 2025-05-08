@@ -34,8 +34,8 @@ The script relies on the following R packages, which will be installed automatic
 
 ## Output
 Two PDF files respectively named wordcloud.pdf and wordcloud_radial.pdf.
-![wordcloud](https://github.com/user-attachments/assets/b5938791-d555-49e4-8ed6-2b3005ab43c5)
-![wordcloud_radial](https://github.com/user-attachments/assets/d9a8a648-b0b9-4564-9991-607e0333f5b8)
+![wordcloud](/test/wordcloud.jpg "word cloud")
+![wordcloud](/test/wordcloud_radial.jpg "radial word frequency")
 
 
 
